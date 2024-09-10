@@ -1,17 +1,22 @@
 <p align="center">
   <h2 align="center">NOVA CHAT</h2>
   <p align="center">
-    一款能讓虛擬主播開口說話、即時互動的App，NOVA Chat 讓直播不再只有文字！
+    一款能讓虛擬主播開口說話、即時互動的App，NOVA Chat 讓直播不再只有文字！<br>
+  </p>
+  <p align="center">
+    <a href="https://discord.gg/GvX9sM3Z">
+        <img src = "https://dcbadge.limes.pink/api/server/GvX9sM3Z?style=flat">
+    </a>
+    &ensp;
+    <a href="https://twitter.com/nova_assistant/">
+        <img src = "https://img.shields.io/twitter/follow/nova_assistant">
+    </a>
+    &ensp;
+    <a href="https://novahelper.ai/">
+        <img src = "nova-ai.svg">
+    </a>
   </p>
 </p>
-
-<center>
-
-[![Discord Follow](https://dcbadge.limes.pink/api/server/GvX9sM3Z?style=flat)](https://discord.gg/GvX9sM3Z) &ensp;
-[![X Follow](https://img.shields.io/twitter/follow/nova_assistant)](https://twitter.com/nova_assistant/) &ensp;
-[![Nova.ai](nova-ai.svg)](https://novahelper.ai/) &ensp;
-
-</center>
 
 ## 基礎功能
 
